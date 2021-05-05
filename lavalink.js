@@ -4,7 +4,7 @@ const { default: { stream } } = require("got");
 const fetch = require('node-fetch')
 const { execSync } = require('child_process')
 
-setInterval(() => fetch('process.env.URL'), 5 * 60 * 1000);
+setInterval(() => fetch('URL HERE'), 5 * 60 * 1000);
 
 const url = 'http://cdn.glitch.com/771d0f62-dfc0-4717-bc57-1a0add2b3289%2FLavalink.jar?v=1619724701424'
 
