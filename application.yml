@@ -1,10 +1,10 @@
 server: # REST and WS server
-  port: DYNAMICPORT
+  port: 65535
   address: 0.0.0.0
 
 lavalink:
   server:
-    password: "youshallnotpass"
+    password: youshallnotpass
     playerUpdateInterval: 1
     koe:
       useEpoll: true
