@@ -1,10 +1,10 @@
 {
   "name": "repl-lavalink-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lavalink-Replt-Server-With-Filters",
   "main": "lavalink.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "bash start.sh"
   },
   "author": "https://github.com/HellpMe",
   "license": "MIT",
