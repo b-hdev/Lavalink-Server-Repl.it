@@ -1,4 +1,4 @@
-
+//Code originally written by Allvaa
 const { createWriteStream } = require('fs')
 const { default: { stream } } = require("got");
 const fetch = require('node-fetch')
