@@ -9,6 +9,7 @@
   "author": "https://github.com/HellpMe",
   "license": "MIT",
   "dependencies": {
+    "got": "^11.8.2",
     "node-fetch": "^2.6.1"
   }
 }
