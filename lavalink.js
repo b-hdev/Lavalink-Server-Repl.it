@@ -6,7 +6,7 @@ const { execSync } = require('child_process')
 
 setInterval(() => fetch('URL HERE'), 5 * 60 * 1000);
 
-const url = 'http://cdn.glitch.com/771d0f62-dfc0-4717-bc57-1a0add2b3289%2FLavalink.jar?v=1619724701424'
+const url = 'http://cdn.glitch.com/96fd362d-e92b-4d84-b58e-da33e2956d72%2FLavalink.jar?v=1627883381993'
 
 const start = () => {
     const download = stream(url).pipe(createWriteStream('Lavalink.jar'));
